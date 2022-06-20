@@ -3,7 +3,7 @@
 
 Hi!
 
-You're looking at the repository for the 20th to 24th June 2022 OneQuantum Ghana and PY4CA Joint Training on Introduction to Programming with Python..
+You're looking at the repository for the 20th to 24th June 2022 OneQuantum Ghana and PY4CA Joint Training on Introduction to Programming with Python.
 
 The repository contains all the Jupyter notebooks which make up the course
 training material (including exercises)
