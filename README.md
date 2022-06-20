@@ -75,6 +75,7 @@ OneQuantum Ghana & PY4CA
  
 
 | ![OneQuantum Ghana](img/lecture-1/ad.jpeg) |
+
 | --------------------------- | ---------------------------- |
 
 
