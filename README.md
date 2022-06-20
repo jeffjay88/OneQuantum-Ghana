@@ -10,10 +10,7 @@ training material (including exercises)
 
 ## Course overview
 
-The course time-table is below (note: all times are in local-time in
-Ghana, so UTC+0)
-
-<img src="graphics/timetable-white.png" width=500 />
+The course is scheduled for 10:00 UTC each day, and is expected to span 2 hours.
 
 
 
@@ -77,7 +74,7 @@ We hope you enjoy the course!
 OneQuantum Ghana & PY4CA
  
 
-| ![](img/lecture-1/ad.jpg) |
+| ![OneQuantum Ghana](img/lecture-1/ad.jpg) |
 | --------------------------- | ---------------------------- |
 
 
