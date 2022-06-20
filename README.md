@@ -74,7 +74,7 @@ We hope you enjoy the course!
 OneQuantum Ghana & PY4CA
  
 
-| ![OneQuantum Ghana](img/lecture-1/ad.jpg) |
+| ![OneQuantum Ghana](img/lecture-1/ad.jpeg) |
 | --------------------------- | ---------------------------- |
 
 
